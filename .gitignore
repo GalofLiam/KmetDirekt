@@ -1,0 +1,23 @@
+# Node.js / TypeScript / Vite
+node_modules/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+.vite/
+# Osebne nastavitve
+.env
+.env.*
+!.env.example
+# IDE / OS / začasne datoteke
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+# Lokalna baza, varnostne kopije, testni izhodi
+*.sqlite
+*.sqlite3
+*.bak
+postgres-data/
