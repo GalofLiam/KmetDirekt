@@ -25,3 +25,5 @@ Projekt je trenutno v fazi načrtovanja. Mapi `frontend/` in `backend/` sta prip
 ## Sodelovanje
 
 Spremembe se pripravljajo na ločenih vejah in združujejo v `main` prek pull requestov (GitHub Flow). Ob novi pomembni arhitekturni odločitvi dodamo ADR, ob spremembi sprejete odločitve pa novega, ki navede prejšnjega.
+
+Dokumentacija projekta vključuje zasnovo, uporabniške zgodbe, wireframe-e in zapise arhitekturnih odločitev.
